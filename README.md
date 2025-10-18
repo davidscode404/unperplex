@@ -23,7 +23,6 @@ To install requirements, run:
 > ```
 
 Create a `.env` file:
-To install requirements, run:
 > ```sh
 > $ touch .env
 > ```

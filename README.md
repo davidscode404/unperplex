@@ -21,3 +21,11 @@ To install requirements, run:
 > ```sh
 > $ pip install -r requirements.txt
 > ```
+
+Create a `.env` file:
+To install requirements, run:
+> ```sh
+> $ touch .env
+> ```
+
+Add `PERPLEXITY_API_KEY` to the `.env`.
